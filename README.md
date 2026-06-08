@@ -24,11 +24,11 @@
     <h1>Proyects</h1>
 </div>
 
-## Executables
+### Executables
 - **Nexus** : File nester with its own file extension
 - **Co2** : Version manager for the C3 language
 
-## Ztd librarys
+### Ztd librarys
 - **ZtdC3** : My own standard library for C3
 - **ZtdRust** : My own standard library for Rust
 - **ZtdZig** : My own standard library for Zig

@@ -1,4 +1,3 @@
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=ElBastionDelOlvido)
 ![Profiles Banner](https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=200&section=header&text=Zukunter&fontSize=40&fontColor=fff)
 
 # My interests
@@ -16,13 +15,13 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" font-size="40">
       <ul>
         <li>
-          <a href="https://github.com/Zukunter/Nexus"><h5>Nexus</h5> : File Nester</a> 
+          <a href="https://github.com/Zukunter/Nexus"><b>Nexus</b> : File Nester</a> 
         </li>
         <li>
-          <a href="https://github.com/Zukunter/Co2"><h5>Co2</h5> : Version Manager for C3</a> 
+          <a href="https://github.com/Zukunter/Co2"><b>Co2</b> : Version Manager for C3</a> 
         </li>
       </ul>
     </td>

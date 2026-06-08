@@ -2,6 +2,8 @@
     <h1>Zukunter</h1>
 </div>
 
+![Banner de Perfil](https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=300&section=header&text=Explorando%20el%20Futuro%20del%20Software&fontSize=40&fontColor=fff)
+
 ![Banner de Perfil](https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=200&section=header&text=Bienvenido%20al%20perfil%20de%20Zukunter&fontSize=30&fontColor=fff)
 
 [![Repo Card](https://github-readme-stats.shion.dev/api/pin/?username=Zukunter&repo=Nexus&theme=gruvbox)](https://github.com/Zukunter/YOUR_REPO_NAME)

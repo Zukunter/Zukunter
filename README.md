@@ -54,7 +54,7 @@
 --- 
 
 
- [<ins>El Bastión del Olvido</ins>](https://github.com/Zukunter/ElBastionDelOlvido)
+## [<ins>El Bastión del Olvido</ins>](https://github.com/Zukunter/ElBastionDelOlvido)
 - My own opinionated distro of openSUSE Tumbleweed with my whole configuration
 
 

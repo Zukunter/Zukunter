@@ -15,28 +15,21 @@
 
 --- 
 
+- **El Bastion Del Olvido** : My own opinated distro of Open Suse Tumbleweed with my whole configuration
+---
+
 <div align="center">
     <h1>Proyects</h1>
 </div>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=donut&exclude_repo=ElBastionDelOlvido" alt="Most Used Languages" width="100%">
+## Executables
+- **Nexus** : File nester with its own file extension
+- **Co2** : Version manager for the C3 language
 
+## Ztd librarys
+- **ZtdC3** : My own standard library for C3
+- **ZtdRust** : My own standard library for Rust
+- **ZtdZig** : My own standard library for Zig
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="50%" style="font-size: 18px;">
-      <ul>
-        <li>
-          <a href="https://github.com/Zukunter/Nexus" style="text-decoration: none;"><b>Nexus</b> : File Nester</a> 
-        </li>
-        <li>
-          <a href="https://github.com/Zukunter/Co2" style="text-decoration: none;" ><b>Co2</b> : Version Manager for C3</a> 
-        </li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=ElBastionDelOlvido" alt="Most Used Languages" width="400%">
-          <!-- <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=ElBastionDelOlvido" alt="Most Used Languages" width="100%"> -->
-    </td>
-  </tr>
-</table>
+<img height="300" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=donut&exclude_repo=ElBastionDelOlvido" alt="Most Used Languages" width="100%">
+

@@ -18,6 +18,9 @@
 <div align="center">
     <h1>Proyects</h1>
 </div>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=ElBastionDelOlvido" alt="Most Used Languages" width="100%">
+
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%" style="font-size: 18px;">

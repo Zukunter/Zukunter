@@ -4,7 +4,6 @@
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <h2>Zukunter</h2>
       <p><b>Interested in:</p></b>
       <ul>
         <li>Embedded systems</li>
@@ -33,11 +32,10 @@
     <td valign="top" width="50%">
       <ul>
         <li>
-          <a href="https://github.com/Zukunter/LINK_DE_TU_REPOSITORIO"><b>Nexus</b> : Nester</a> 
+          <a href="https://github.com/Zukunter/Nexus"><b> Nexus</b> : File Nester</a> 
         </li>
-        <br>
         <li>
-          <a href="https://github.com/Zukunter/LINK_DE_TU_REPOSITORIO_2"><b>Co2</b> : Version Manager for C3</a> 
+          <a href="https://github.com/Zukunter/Co2"><b>3 Co2</b> : Version Manager for C3</a> 
         </li>
       </ul>
     </td>

@@ -15,10 +15,14 @@
 
 --- 
 
+
 # El Bastion Del Olvido
 - My own opinated distro of Open Suse Tumbleweed with my whole configuration
 
+
 ---
+
+
 
 <div align="center">
     <h1>Proyects</h1>

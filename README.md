@@ -1,41 +1,27 @@
-<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=ElBastionDelOlvido) -->
-![Banner de Perfil](https://capsule-render.vercel.app/api?type=waving&color=7928CA&height=300&section=header&text=Zukunter/Nexus&fontSize=40&fontColor=fff)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=ElBastionDelOlvido)
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" width="50%">
-      <p><b>Interested in:</p></b>
-      <ul>
-        <li>Embedded systems</li>
-        <li>Linux and its Distros</li>
-        <li>Libc and core commands</li>
-        <li>Low-level programming languages</li>
-        <li>Machine learning</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <br><br><br> 
-      <p><b>Languages I speak:</b></p>
-        <ul>
-            <li>C2 : Español</li>
-            <li>B2 : English</li>
-            <li>A1 : Deutsch</li>
-          </ul>
-    </td>
-  </tr>
-</table>
+# My interests
+- **Embedded systems**
+- **Linux and its Distros**
+- **Libc and core commands**
+- **Low-level programming languages**
+- **Machine learning**
 
-<br>
+# Languages I speak
+
+- **Español** : C2
+- **English** : B2
+- **Deutsch** : A1
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
       <ul>
         <li>
-          <a href="https://github.com/Zukunter/Nexus"><b> Nexus</b> : File Nester</a> 
+          <a href="https://github.com/Zukunter/Nexus"><b>Nexus</b> : File Nester</a> 
         </li>
         <li>
-          <a href="https://github.com/Zukunter/Co2"><b>3 Co2</b> : Version Manager for C3</a> 
+          <a href="https://github.com/Zukunter/Co2"><b>Co2</b> : Version Manager for C3</a> 
         </li>
       </ul>
     </td>

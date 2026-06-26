@@ -22,15 +22,14 @@
 
 ---
 
-
-
 # Projects
 
 ### Executables
 - [<ins>**Nexus**</ins>](https://github.com/Zukunter/Nexus) : File nester with its own file extension
-- [<ins>**Co2**</ins>](https://github.com/Zukunter/Co2) : Version manager for the C3 language
+- [<ins>**Erasers**</ins>](https://github.com/Zukunter/Co2) : Commands to erase shell's screen
 
-### Ztd libraries
-- [<ins>**ZtdC3**</ins>](https://github.com/Zukunter/ZtdC3) : My own standard library for C3
+### Libraries
 - [<ins>**ZtdRust**</ins>](https://github.com/Zukunter/ZtdRust) : My own standard library for Rust
-- [<ins>**ZtdZig**</ins>](https://github.com/Zukunter/ZtdZig) : My own standard library for Zig
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Zukunter&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=donut&exclude_repo=ElBastionDelOlvido" alt="Most Used Languages" width="100%">
+

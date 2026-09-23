@@ -29,8 +29,8 @@
 - [<ins>**Eraser**</ins>](https://github.com/Zukunter/Eraser) : Commands to erase shell's screen
 - [<ins>**Vfs**</ins>](https://github.com/Zukunter/Vfs) : Cross virtual file system manager
 - [<ins>**Linux**</ins>](https://github.com/Zukunter/Linux) : Linux environment manager
-- [<ins>**Kissh**</ins>](https://github.com/Zukunter/Eraser) : Keep it simple she'll
-
+- [<ins>**Kissh**</ins>](https://github.com/Zukunter/Eraser) : Keep it simple shell
+-[<ins>**Rush**</ins>](https://github.com/Zukunter/Eraser) : 
 
 ### Libraries
 - [<ins>**ZtdRust**</ins>](https://github.com/Zukunter/ZtdRust) : My own standard library for Rust

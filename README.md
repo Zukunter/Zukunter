@@ -26,7 +26,9 @@
 
 ### Executables
 - [<ins>**Nexus**</ins>](https://github.com/Zukunter/Nexus) : File nester with its own file extension
-- [<ins>**Erasers**</ins>](https://github.com/Zukunter/Co2) : Commands to erase shell's screen
+- [<ins>**Eraser**</ins>](https://github.com/Zukunter/Eraser) : Commands to erase shell's screen
+
+[<ins>**Vfs**</ins>](https://github.com/Zukunter/Vfs) : Cross virtual file system manager
 
 ### Libraries
 - [<ins>**ZtdRust**</ins>](https://github.com/Zukunter/ZtdRust) : My own standard library for Rust
